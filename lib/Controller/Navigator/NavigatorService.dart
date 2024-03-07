@@ -56,7 +56,4 @@ Route? onGenreateRoute(RouteSettings setting) {
       return (SlideTransitionPage(child: GoogleMapPage()));
   }
 
-  if (setting.name == DashboardPage.pageName) {
-    return SlideTransitionPage(settings: setting, child: DashboardPage());
-  }
 }
