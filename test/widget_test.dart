@@ -7,6 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:food_panda_clone/app.dart';
 
 import 'package:food_panda_clone/main.dart';
 

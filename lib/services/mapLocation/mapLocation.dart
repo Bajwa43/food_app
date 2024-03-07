@@ -4,7 +4,7 @@ import 'package:flutter_polyline_points/flutter_polyline_points.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-import '../../Utility/Constant/googleMap.dart';
+import '../../Utility/Constant/googleMapKey.dart';
 
 class MapsLocation {
   static Future<String> convertToAddress(
